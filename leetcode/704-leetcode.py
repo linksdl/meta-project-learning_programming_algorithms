@@ -15,7 +15,8 @@
 nums[mid] == target 则返回该位置下标
 nums[mid] > target 则右侧指针移到中间
 nums[mid] < target 则左侧指针移到中间
-时间复杂度：O(logN)O(logN)
+时间复杂度：O(logN)
+O(logN)
 https://leetcode-cn.com/problems/binary-search/
 '''
 class Solution:
