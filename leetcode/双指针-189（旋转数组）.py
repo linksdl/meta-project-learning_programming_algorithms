@@ -4,7 +4,7 @@
 # @Time        : 2021/9/8 7:15 下午
 # @Author      : linksdl
 # @ProjectName : futuretec-project-algorithm_leetcode
-# @File        : 189.py
+# @File        : 双指针-189（旋转数组）.py
 
 '''
 189 旋转数组

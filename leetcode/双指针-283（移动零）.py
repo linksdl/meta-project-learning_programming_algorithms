@@ -4,7 +4,7 @@
 # @Time        : 2021/9/11 10:27 上午
 # @Author      : linksdl
 # @ProjectName : futuretec-project-algorithm_leetcode
-# @File        : 283.py
+# @File        : 双指针-283（移动零）.py
 
 '''
 283 双指针-移动零
