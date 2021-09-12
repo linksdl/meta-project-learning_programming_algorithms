@@ -4,7 +4,7 @@
 # @Time        : 2021/9/12 1:48 下午
 # @Author      : linksdl
 # @ProjectName : futuretec-project-algorithm_leetcode
-# @File        : 双指针-19（删除链表的倒数第N个节点）.py
+# @File        : 双指针-19（删除链表的倒数第N个节点）middle.py
 
 '''
 19. 删除链表的倒数第 N 个结点

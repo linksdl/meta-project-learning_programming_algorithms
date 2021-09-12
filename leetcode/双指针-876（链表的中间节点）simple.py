@@ -4,7 +4,7 @@
 # @Time        : 2021/9/12 1:18 下午
 # @Author      : linksdl
 # @ProjectName : futuretec-project-algorithm_leetcode
-# @File        : 双指针-876（链表的中间节点）.py
+# @File        : 双指针-876（链表的中间节点）simple.py
 
 '''
 876. 链表的中间结点

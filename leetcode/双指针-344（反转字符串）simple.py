@@ -4,7 +4,7 @@
 # @Time        : 2021/9/11 11:52 上午
 # @Author      : linksdl
 # @ProjectName : futuretec-project-algorithm_leetcode
-# @File        : 双指针-344（反转字符串）.py
+# @File        : 双指针-344（反转字符串）simple.py
 
 '''
 344-反转字符串

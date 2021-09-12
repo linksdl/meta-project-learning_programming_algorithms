@@ -4,7 +4,7 @@
 # @Time        : 2021/9/11 11:22 上午
 # @Author      : linksdl
 # @ProjectName : futuretec-project-algorithm_leetcode
-# @File        : 双指针-167（两数之和II-输入有序数组）.py
+# @File        : 双指针-167（两数之和II-输入有序数组）simple.py
 
 '''
 167- https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/
