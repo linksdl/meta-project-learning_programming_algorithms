@@ -4,7 +4,7 @@
 # @Time        : 2021/9/13 4:29 下午
 # @Author      : linksdl
 # @ProjectName : futuretec-project-algorithm_leetcode
-# @File        : 深度 or 广度搜索-695（岛屿的最大面积）middle.py
+# @File        : 深度 or 广度优先搜索-695（岛屿的最大面积）middle.py
 
 '''
 695. 岛屿的最大面积
