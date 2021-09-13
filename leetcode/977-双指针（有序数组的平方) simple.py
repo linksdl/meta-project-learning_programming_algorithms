@@ -4,7 +4,7 @@
 # @Time        : 2021/9/8 6:08 下午
 # @Author      : linksdl
 # @ProjectName : futuretec-project-algorithm_leetcode
-# @File        : 双指针-977（有序数组的平方) simple.py
+# @File        : 977-双指针（有序数组的平方) simple.py
 
 '''
 977. 有序数组的平方

@@ -4,7 +4,7 @@
 # @Time        : 2021/9/12 4:19 下午
 # @Author      : linksdl
 # @ProjectName : futuretec-project-algorithm_leetcode
-# @File        : 滑动窗口-567-字符串的排列-middle.py
+# @File        : 567-滑动窗口（字符串的排列）middle.py
 
 '''
 567. 字符串的排列

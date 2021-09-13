@@ -4,7 +4,7 @@
 # @Time        : 2021/9/12 1:02 下午
 # @Author      : linksdl
 # @ProjectName : futuretec-project-algorithm_leetcode
-# @File        : 双指针-557（反转字符串中的单词III）simple.py
+# @File        : 557-双指针（反转字符串中的单词III）simple.py
 
 '''
 557. 反转字符串中的单词 III

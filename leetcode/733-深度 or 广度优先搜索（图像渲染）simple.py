@@ -4,7 +4,7 @@
 # @Time        : 2021/9/13 3:52 下午
 # @Author      : linksdl
 # @ProjectName : futuretec-project-algorithm_leetcode
-# @File        : 深度 or 广度优先搜索-733（图像渲染）simple.py
+# @File        : 733-深度 or 广度优先搜索（图像渲染）simple.py
 
 '''
 733. 图像渲染

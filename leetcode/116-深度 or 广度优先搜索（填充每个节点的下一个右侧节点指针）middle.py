@@ -4,7 +4,7 @@
 # @Time        : 2021/9/13 5:49 下午
 # @Author      : linksdl
 # @ProjectName : futuretec-project-algorithm_leetcode
-# @File        : 深度 or 广度优先搜索-116（填充每个节点的下一个右侧节点指针）middle.py
+# @File        : 116-深度 or 广度优先搜索（填充每个节点的下一个右侧节点指针）middle.py
 
 '''
 116. 填充每个节点的下一个右侧节点指针

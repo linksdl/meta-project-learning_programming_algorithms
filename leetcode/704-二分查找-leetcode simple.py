@@ -4,7 +4,7 @@
 # @Time        : 2021/9/6 3:47 下午
 # @Author      : linksdl
 # @ProjectName : futuretec-project-algorithm_leetcode
-# @File        : 二分查找-704-leetcode simple.py
+# @File        : 704-二分查找-leetcode simple.py
 
 
 '''

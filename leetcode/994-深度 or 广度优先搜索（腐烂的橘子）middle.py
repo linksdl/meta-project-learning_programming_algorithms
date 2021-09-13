@@ -4,7 +4,7 @@
 # @Time        : 2021/9/13 8:24 下午
 # @Author      : linksdl
 # @ProjectName : futuretec-project-algorithm_leetcode
-# @File        : 深度 or 广度优先搜索-994（腐烂的橘子）middle.py
+# @File        : 994-深度 or 广度优先搜索（腐烂的橘子）middle.py
 
 '''
 994. 腐烂的橘子

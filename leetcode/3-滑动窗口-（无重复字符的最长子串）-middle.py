@@ -4,7 +4,7 @@
 # @Time        : 2021/9/12 2:51 下午
 # @Author      : linksdl
 # @ProjectName : futuretec-project-algorithm_leetcode
-# @File        : 滑动窗口-3（无重复字符的最长子串）-middle.py
+# @File        : 3-滑动窗口-（无重复字符的最长子串）-middle.py
 
 '''
 3. 无重复字符的最长子串

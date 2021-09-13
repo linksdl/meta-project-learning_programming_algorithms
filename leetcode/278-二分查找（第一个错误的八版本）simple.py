@@ -4,7 +4,7 @@
 # @Time        : 2021/9/6 4:24 下午
 # @Author      : linksdl
 # @ProjectName : futuretec-project-algorithm_leetcode
-# @File        : 二分查找-278（第一个错误的八版本）simple.py
+# @File        : 278-二分查找（第一个错误的八版本）simple.py
 
 '''
 278. 第一个错误的版本
