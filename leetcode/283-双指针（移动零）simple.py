@@ -14,6 +14,7 @@ https://leetcode-cn.com/problems/move-zeroes/
 
 
 class Solution:
+    # 双指针
     def move_zeros(self, nums):
         """
         Do not return anything, modify nums in-place instead.
@@ -26,6 +27,14 @@ class Solution:
                 l_point += 1
             r_point += 1
 
-
-
-
+    # 冒泡排序
+    def move_zeros1(self, nums):
+        zeroscount, n = 0, len(nums)
+        for i in range(n - zeroscount):
+            if nums[i] == 0:
+                for j in range(i, n - zeroscount -1):
+                    temp = nums[j]
+                    nums[j] = nums[j+1]
+                    nums[j+1] = temp
+                zeroscount += 1
+                i -= 1
