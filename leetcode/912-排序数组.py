@@ -15,7 +15,7 @@ https://leetcode-cn.com/leetbook/read/sort-algorithms/ewrwt6/
 '''
 
 class Solution:
-    def sortArray(self, nums: List[int]) -> List[int]:
+    def sortArray(self, nums):
         minIndex = maxIndex = -1
         # asc order
         for i in range(len(nums) // 2):
@@ -38,3 +38,9 @@ class Solution:
         temp = nums[i]
         nums[i] = nums[j]
         nums[j] = temp
+
+
+# class Solution:
+#     def sortArray(self, nums: List[int]) -> List[int]:
+#         nums.sort()
+#         return nums
