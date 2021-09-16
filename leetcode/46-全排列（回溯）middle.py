@@ -23,6 +23,5 @@ class Solution:
                 return
             for i in range(len(nums)):
                 backtrack(nums[:i] + nums[i+1:], temp + [nums[i]])
-
         backtrack(nums, [])
         return ans
