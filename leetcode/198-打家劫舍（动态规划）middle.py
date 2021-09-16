@@ -4,7 +4,7 @@
 # @Time        : 2021/9/16 6:20 下午
 # @Author      : linksdl
 # @ProjectName : futuretec-project-algorithm_leetcode
-# @File        : 198-打家劫舍（回溯 or 递归）.py
+# @File        : 198-打家劫舍（动态规划）middle.py
 
 '''
 198. 打家劫舍
