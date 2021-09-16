@@ -26,7 +26,7 @@ class Solution:
         ans, a, b = 0, 1, 2
         for i in range(3, n+1):
             # 超出时间限制
-            # return self.climbStairs(n-1) + self.climbStairs(n-2)
+            #  return self.climbStairs(n-1) + self.climbStairs(n-2)
             ans = a + b
             a = b
             b = ans
