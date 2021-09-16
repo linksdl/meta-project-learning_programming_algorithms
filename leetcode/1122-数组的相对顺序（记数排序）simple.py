@@ -24,6 +24,7 @@ class Solution:
         for x in arr1:
             upper = max(upper, x)
 
+
         frequency = [0] * (upper +1)
         for x in arr1:
             frequency[x] += 1
