@@ -2,7 +2,7 @@
 # !/usr/bin/env python
 # -*- coding: utf-8 -*-
 @Time        : 2022/3/29 13:19
-@File        : HJ92-.py
+@File        : HJ92-在字符串中找出连续最长的数字串.py
 """
 
 
@@ -22,9 +22,9 @@ def maxDigitLen(str):
     l = len(str)
     window_size_max = l
 
-    for i in range(window_size_min, window_size_max+1, 1):
-        for j in range(0, l-i+1):
-            ss = str[j:j+i]
+    for i in range(window_size_min, window_size_max + 1, 1):
+        for j in range(0, l - i + 1):
+            ss = str[j:j + i]
 
 
 def ff(in_str):
@@ -36,7 +36,7 @@ def ff(in_str):
     in_str += 'a'
     l = len(in_str)
     if l == 1 and in_str[0].isdigit():
-        print(in_str[0]+','+ '1')
+        print(in_str[0] + ',' + '1')
     point_i = 0
     point_j = 0
     max_len = 0
@@ -60,8 +60,7 @@ def ff(in_str):
                 point_i = point_j
 
     # print(point_i, point_j)
-    print(''.join(max_len_nums)+','+str(max_len))
-
+    print(''.join(max_len_nums) + ',' + str(max_len))
 
 
 ff('abcd12345ed125ss123058789')
