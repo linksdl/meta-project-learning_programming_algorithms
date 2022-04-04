@@ -2,7 +2,7 @@
 # !/usr/bin/env python
 # -*- coding: utf-8 -*-
 @Time        : 2022/3/24 15:53
-@File        : HJ101-SortInteger.py
+@File        : HJ101 输入整型数组和排序标识，对其元素按照升序或降序进行排序.py
 """
 
 

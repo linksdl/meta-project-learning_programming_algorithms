@@ -2,7 +2,7 @@
 # !/usr/bin/env python
 # -*- coding: utf-8 -*-
 @Time        : 2022/3/24 15:36
-@File        : HJ58-minKInteger.py
+@File        : HJ58 输入n个整数，输出其中最小的k个.py
 """
 
 

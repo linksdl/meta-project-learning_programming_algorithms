@@ -2,7 +2,7 @@
 # !/usr/bin/env python
 # -*- coding: utf-8 -*-
 @Time        : 2022/3/24 15:13
-@File        : HJ9-DuplicateInteger.py
+@File        : HJ9 提取不重复的整数.py
 """
 
 

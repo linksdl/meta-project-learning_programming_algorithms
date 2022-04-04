@@ -2,7 +2,7 @@
 # !/usr/bin/env python
 # -*- coding: utf-8 -*-
 @Time        : 2022/3/24 15:22
-@File        : HJ46-subString.py
+@File        : HJ46 截取字符串.py
 """
 
 
