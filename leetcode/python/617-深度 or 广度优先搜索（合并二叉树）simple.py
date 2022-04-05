@@ -4,7 +4,7 @@
 # @Time        : 2021/9/13 5:20 下午
 # @Author      : linksdl
 # @ProjectName : futuretec-project-algorithm_leetcode
-# @File        : 617-深度 or 广度优先搜索（合并二叉树）simple.py
+# @File        : 617-深度 or 深度优先搜索（合并二叉树）simple.py
 
 '''
 617. 合并二叉树

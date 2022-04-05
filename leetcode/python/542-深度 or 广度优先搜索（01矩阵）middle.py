@@ -4,7 +4,7 @@
 # @Time        : 2021/9/13 7:44 下午
 # @Author      : linksdl
 # @ProjectName : futuretec-project-algorithm_leetcode
-# @File        : 542-深度 or 广度优先搜索（01矩阵）middle.py
+# @File        : 542-深度 or 深度优先搜索（01矩阵）middle.py
 
 '''
 542. 01 矩阵
