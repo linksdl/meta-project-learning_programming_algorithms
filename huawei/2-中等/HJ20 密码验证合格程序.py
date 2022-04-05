@@ -2,7 +2,7 @@
 # !/usr/bin/env python
 # -*- coding: utf-8 -*-
 @Time        : 2022/4/1 15:17
-@File        : HJ20-密码验证合格程序.py
+@File        : HJ20 密码验证合格程序.py
 """
 
 # HJ20 密码验证合格程序

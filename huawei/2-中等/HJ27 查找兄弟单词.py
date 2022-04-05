@@ -2,7 +2,7 @@
 # !/usr/bin/env python
 # -*- coding: utf-8 -*-
 @Time        : 2022/3/29 23:45
-@File        : HJ27-查找兄弟单词.py
+@File        : HJ27 查找兄弟单词.py
 """
 
 

@@ -2,7 +2,7 @@
 # !/usr/bin/env python
 # -*- coding: utf-8 -*-
 @Time        : 2022/4/1 14:26
-@File        : HJ32-密码截取.py
+@File        : HJ32 密码截取.py
 """
 
 

@@ -2,7 +2,7 @@
 # !/usr/bin/env python
 # -*- coding: utf-8 -*-
 @Time        : 2022/3/29 23:24
-@File        : HJ63-DNA序列.py
+@File        : HJ63 DNA序列.py
 """
 
 

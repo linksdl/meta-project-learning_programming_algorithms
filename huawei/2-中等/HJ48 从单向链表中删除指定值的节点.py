@@ -2,7 +2,7 @@
 # !/usr/bin/env python
 # -*- coding: utf-8 -*-
 @Time        : 2022/4/4 08:25
-@File        : HJ48-从单向链表中删除指定值的节点.py
+@File        : HJ48 从单向链表中删除指定值的节点.py
 """
 
 

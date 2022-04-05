@@ -2,7 +2,7 @@
 # !/usr/bin/env python
 # -*- coding: utf-8 -*-
 @Time        : 2022/4/1 10:14
-@File        : HJ107-求解立方根.py
+@File        : HJ107 求解立方根.py
 """
 
 

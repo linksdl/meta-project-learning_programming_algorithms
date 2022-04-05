@@ -2,7 +2,7 @@
 # !/usr/bin/env python
 # -*- coding: utf-8 -*-
 @Time        : 2022/4/2 12:27
-@File        : HJ82-将真分数分解为埃及分数.py
+@File        : HJ82 将真分数分解为埃及分数.py
 """
 
 # HJ82 将真分数分解为埃及分数

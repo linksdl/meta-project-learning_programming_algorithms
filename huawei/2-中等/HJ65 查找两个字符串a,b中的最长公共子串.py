@@ -2,7 +2,7 @@
 # !/usr/bin/env python
 # -*- coding: utf-8 -*-
 @Time        : 2022/3/29 22:58
-@File        : HJ65-查找两个字符串a,b中的最长公共子串.py
+@File        : HJ65 查找两个字符串a,b中的最长公共子串.py
 """
 
 
