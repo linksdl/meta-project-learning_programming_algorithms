@@ -8,28 +8,33 @@
 # 75. 颜色分类
 # https://leetcode-cn.com/problems/sort-colors/
 
-class Solution:
-    def sortColors(self, nums: List[int]) -> None:
-        """
-        Do not return anything, modify nums in-place instead.
-        """
 
-        def swap(nums, m, n):
-            temp = nums[m]
-            nums[m] = nums[n]
-            nums[n] = temp
+def sortColors(nums) -> None:
+    """
+    Do not return anything, modify nums in-place instead.
+    """
 
-        l = len(nums)
-        zero = -1
-        two = l - 1
-        i = 0
-        while i <= two:
-            if nums[i] == 0:
-                zero += 1
-                swap(nums, i, zero)
-                i += 1
-            elif nums[i] == 1:
-                i += 1
-            else:
-                swap(nums, i, two)
-                two -= 1
+    def swap(nums, m, n):
+        temp = nums[m]
+        nums[m] = nums[n]
+        nums[n] = temp
+
+    l = len(nums)
+    zero = -1
+    two = l - 1
+    i = 0
+    while i <= two:
+        if nums[i] == 0:
+            zero += 1
+            swap(nums, i, zero)
+            i += 1
+        elif nums[i] == 1:
+            i += 1
+        else:
+            swap(nums, i, two)
+            two -= 1
+
+    print(nums)
+
+nums = [2,0,2,1,1,0]
+sortColors(nums)
