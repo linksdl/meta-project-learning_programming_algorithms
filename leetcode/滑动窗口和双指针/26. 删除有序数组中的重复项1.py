@@ -2,7 +2,7 @@
 # !/usr/bin/env python
 # -*- coding: utf-8 -*-
 @Time        : 2022/4/7 23:26
-@File        : 26. 删除有序数组中的重复项.py
+@File        : 26. 删除有序数组中的重复项1.py
 """
 
 
