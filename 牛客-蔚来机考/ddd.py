@@ -29,6 +29,7 @@ def calculateDistance(point, triangle):
     y_r.sort()
     # print(x, y)
     if x_r[0] <= x <= x_r[2] or y_r[0] <= y <= y_r[2]:
+
         print(0)
 
 
